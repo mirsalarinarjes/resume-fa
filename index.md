@@ -43,4 +43,3 @@
 <br/>
 
   <li>رزومه‌ی انگلیسے: <a href="https://mirsalarinarjes.github.io/"> رزومه </a></li>
-</ul>
